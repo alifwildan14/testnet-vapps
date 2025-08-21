@@ -1,29 +1,32 @@
-# vApp Submission: [Your Project Name]
+# vApp Submission: Soundboard
 
 ## Verification
 ```yaml
-github_username: "your-username"
-discord_id: "123456789012345678"
-timestamp: "2025-01-15"
+github_username: "alifwildan14"
+discord_id: "854046749525409803"
+timestamp: "2025-08-21"
 ```
 
 ## Developer
-- **Name**: Your Name
-- **GitHub**: @your-username
-- **Discord**: username#1234
-- **Experience**: Brief background
+- **Name**: Wildan
+- **GitHub**: @alifwildan14
+- **Discord**: alifwildan15#8127
+- **Experience**: web3 learner
 
 ## Project
 
 ### Name & Category
-- **Project**: Your vApp Name
-- **Category**: identity/defi/social/gaming/infrastructure/other
+- **Project**: soundboard
+- **Category**: infrastructures
 
 ### Description
-What problem does your vApp solve? What does it do?
+Monitoring dashboards are often difficult to maintain due to fragmented data sources, slow refresh rates, and lack of actionable insights. This creates challenges for developers, operators, and organizations who need reliable, real-time information to make quick decisions.
 
 ### SL Integration  
 How will you use Soundness Layer? What specific SL features?
+- Real-time metrics aggregation from different services
+- Automated alerts via email, Telegram, or Discord
+- Open-source and easy integration with existing tools
 
 ## Technical
 
@@ -31,15 +34,16 @@ How will you use Soundness Layer? What specific SL features?
 High-level system design and approach
 
 ### Stack
-- **Frontend**: React/Vue/etc
-- **Backend**: Rust/Node.js/Python/etc  
+- **Frontend**: React
+- **Backend**: Node.js/Python/etc  
 - **Blockchain**: SL + others
 - **Storage**: Database/WALRUS/IPFS/etc
 
 ### Features
-1. Core feature 1
-2. Core feature 2  
-3. Core feature 3
+1. Real-time Metrics Aggregation
+2. Automated Alerts
+3. Scalable Infrastructure
+4. Open-source & Easy Integration 
 
 ## Timeline
 
@@ -54,14 +58,17 @@ High-level system design and approach
 - [ ] User testing
 
 ## Innovation
-What makes this unique? Why will people use it?
+- One-Click Data Connection
+- Adaptive Design
+- Smart Widgets
+- Collaboration Mode
 
 ## Contact
-Preferred contact method and where you'll share updates.
+alifwildan14@gmail.com
 
 
 **Checklist before submitting:**
-- [ ] All fields completed
-- [ ] GitHub username matches PR author  
-- [ ] SL integration explained
-- [ ] Timeline is realistic
+- [✓] All fields completed
+- [✓] GitHub username matches PR author  
+- [✓] SL integration explained
+- [✓] Timeline is realistic
